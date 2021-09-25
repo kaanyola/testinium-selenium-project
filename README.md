@@ -1,4 +1,4 @@
-# testinium-sellenium-project
+# testinium-selenium-project
 
 - www.gittigidiyor.com sitesi açılır.
 - Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
